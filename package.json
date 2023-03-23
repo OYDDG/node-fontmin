@@ -1,0 +1,14 @@
+{
+  "name": "fontmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/Main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fontmin": "^0.9.9"
+  }
+}
